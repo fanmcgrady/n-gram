@@ -1,4 +1,4 @@
 
 *.xml
-/vendor
+/venv
 /data
